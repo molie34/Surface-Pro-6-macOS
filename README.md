@@ -27,7 +27,7 @@
 
 <ul><li>macOS 10.13.6 - macOS 10.14.x，我目前使用macOS 10.14.2正式版</li></ul>
 <h2>CLOVER版本：</h2>
-<img src="https://github.com/molie34/Surface-Pro-6/blob/master/images/0.jpg" />
+<img src="https://github.com/molie34/Surface-Pro-6-macOS/blob/master/images/0.jpg" />
 <ul><li>CLOVER 4877</li>
    
 </ul>
@@ -71,15 +71,15 @@ TPS：我没有使用代码仿冒一个无用的en0，我是先装好系统后�
 <h4>特别提示：</h4>
 如果重建缓存之后重启跑玩-v代码后重启的，那么选择congfig-out-Dispaly.Plist 这个配置文件，然后连接上显示器就可以正常进入驱动后的系统，然后再一次重建缓存，重启之后使用默认配置文件就可以驱动内屏了！</br>
 <h2>系统截图</h2>
-<img src="https://github.com/molie34/Surface-Pro-6/blob/master/images/1.jpg" />
-<img src="https://github.com/molie34/Surface-Pro-6/blob/master/images/2.jpg" />
-<img src="https://github.com/molie34/Surface-Pro-6/blob/master/images/3.jpg" />
-<img src="https://github.com/molie34/Surface-Pro-6/blob/master/images/4.jpg" />
-<img src="https://github.com/molie34/Surface-Pro-6/blob/master/images/5.jpg" />
-<img src="https://github.com/molie34/Surface-Pro-6/blob/master/images/6.jpg" />
-<img src="https://github.com/molie34/Surface-Pro-6/blob/master/images/7.jpg" />
-<img src="https://github.com/molie34/Surface-Pro-6/blob/master/images/8.jpg" />
-<img src="https://github.com/molie34/Surface-Pro-6/blob/master/images/9.jpg" />
+<img src="https://github.com/molie34/Surface-Pro-6-macOS/blob/master/images/1.jpg" />
+<img src="https://github.com/molie34/Surface-Pro-6-macOS/blob/master/images/2.jpg" />
+<img src="https://github.com/molie34/Surface-Pro-6-macOS/blob/master/images/3.jpg" />
+<img src="https://github.com/molie34/Surface-Pro-6-macOS/blob/master/images/4.jpg" />
+<img src="https://github.com/molie34/Surface-Pro-6-macOS/blob/master/images/5.jpg" />
+<img src="https://github.com/molie34/Surface-Pro-6-macOS/blob/master/images/6.jpg" />
+<img src="https://github.com/molie34/Surface-Pro-6-macOS/blob/master/images/7.jpg" />
+<img src="https://github.com/molie34/Surface-Pro-6-macOS/blob/master/images/8.jpg" />
+<img src="https://github.com/molie34/Surface-Pro-6-macOS/blob/master/images/9.jpg" />
 
 
 <h2><a class="anchor" id="user-content-感谢" aria-hidden="true" href="#感谢"><svg xmlns="http://www.w3.org/2000/svg" class="octicon octicon-link" aria-hidden="true" viewBox="0 0 16 16" width="16" height="16" version="1.1"><path fill-rule="evenodd" d="M 4 9 h 1 v 1 H 4 c -1.5 0 -3 -1.69 -3 -3.5 S 2.55 3 4 3 h 4 c 1.45 0 3 1.69 3 3.5 c 0 1.41 -0.91 2.72 -2 3.25 V 8.59 c 0.58 -0.45 1 -1.27 1 -2.09 C 10 5.22 8.98 4 8 4 H 4 c -0.98 0 -2 1.22 -2 2.5 S 3 9 4 9 Z m 9 -3 h -1 v 1 h 1 c 1 0 2 1.22 2 2.5 S 13.98 12 13 12 H 9 c -0.98 0 -2 -1.22 -2 -2.5 c 0 -0.83 0.42 -1.64 1 -2.09 V 6.25 c -1.09 0.53 -2 1.84 -2 3.25 C 6 11.31 7.55 13 9 13 h 4 c 1.45 0 3 -1.69 3 -3.5 S 14.5 6 13 6 Z" /></svg></a>感谢</h2>
