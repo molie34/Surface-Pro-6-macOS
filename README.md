@@ -22,7 +22,8 @@ Surface Pro6 安装镜像：<A HREF="https://www.jianshu.com/p/65b9207276fd" tar
 </ul>
 <h2>更新信息：</h2>
 <ul>
-  <li>2019-02-23 更新 v1.2</li>
+  <li>2019-02-24 更新 v1.2</li>  
+  <li>2019-02-23 更新 v1.1</li>
   <li>2019-02-21 更新 v1.0</li>
 </ul>
 <h2>macOS 版本：</h2>
