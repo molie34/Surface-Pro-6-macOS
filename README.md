@@ -1,7 +1,7 @@
 <h1>Surface Pro 6 黑苹果  CLOVER 配置文件,全球首发</h1></br>
 <P>Surface Pro 6 的UEFI BIOS和别的机型BIOS相比较处在一个很特殊的地位，我光是为了解决卡++++++++就花了将近一个月，总过花了一个月17天终于解决了UHD620内屏黑屏的问题！这背后总共试验了1200多次试错，我也收获了对surface pro系列的一些特性了解，整个折腾过程我很享受。</P>
 
-<P>Surface Pro6 安装windows10和黑苹果macOS 10.14双系统：<A HREF="http://bbs.pcbeta.com/viewthread-1806525-1-1.html" target="_blank">Surface Pro6 超详细教程之安装windows10和黑苹果macOS 10.14双系统</A></p>
+<P>Surface Pro6 安装windows10/macOS 10.14双系统：<A HREF="http://bbs.pcbeta.com/viewthread-1806525-1-1.html" target="_blank">Surface Pro6 超详细教程之安装windows10和黑苹果macOS 10.14双系统</A></p>
 <P>Surface Pro6 安装镜像：<A HREF="https://www.jianshu.com/p/65b9207276fd" target="_blank">Surface Pro6 黑苹果镜像 macOS Mojave 10.14.2 正式版 with Clover 4877</A></p>
 
 <P>很感谢<A HREF="https://github.com/gdllzkusi/hackintosh--lenovo-Yoga-3-Pro-1370" target="_blank">hackintosh--lenovo-Yoga-3-Pro-1370</A>！,在他提供的经验帮助之上，我修改了适合Pro6 的配置文件最终实现了Surface Pro6 内屏的完美，在没有修复内屏之前我都是使用外接显示器来使用macOS，现在也可以成功使用内屏。这里也要感谢制作DVMT补丁的作者、感谢为黑苹果做出过努力的大神，感谢你们的教程。</P>
