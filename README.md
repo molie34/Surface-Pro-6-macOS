@@ -1,9 +1,16 @@
 <h1>Surface Pro 6 黑苹果  CLOVER 配置文件,全球首发</h1></br>
 <P>Surface Pro 6 的UEFI BIOS和别的机型BIOS相比较处在一个很特殊的地位，我光是为了解决卡++++++++就花了将近一个月，总过花了一个月17天终于解决了UHD620内屏黑屏的问题！这背后总共试验了1200多次试错，我也收获了对surface pro系列的一些特性了解，整个折腾过程我很享受。</P>
 
-<P>Surface Pro 6超详细教程：<A HREF="http://bbs.pcbeta.com/viewthread-1806525-1-1.html" target="_blank">Surface Pro6 超详细教程之安装windows10和黑苹果macOS 10.14双系统</A></p>
-<P>Surface Pro 6超详细教程：<A HREF="http://bbs.pcbeta.com/viewthread-1806804-1-3.html" target="_blank">Surface Pro 6超详细教程之安装黑苹果macOS 10.14单系统</A></p>
-<P>Surface Pro 6超详细教程：<A HREF="https://www.jianshu.com/p/d1b41d913f91" target="_blank">Surface Pro 6超详细教程之下载Surface 系统恢复镜像并制作系统恢复U盘</A></p>
+<p>MacBook Pro之后，Surface Pro6 是我非常喜欢的一款机器，它结束了我以前MacBook + iPad的日子，看超高清PDF书籍做笔记和日常系统应用都可以在一个机器上完成，而且重量加上键盘和笔也就770g+310g+20g = 1100g！出差背着一点都不重，超级喜欢，可惜都已经9012年了Apple也没有这样的机器。基于对Surface Pro6的喜欢我做了4个教程来帮助更多Surface Pro6用户无忧折腾。</p><blockquote>
+<p>Surface Pro6超详细教程一共有4个系列：</p>
+<p><a href="https://www.jianshu.com/p/6eb827ab5e9a" target="_blank">Surface Pro 6超详细教程之安装windows10和黑苹果macOS 10.14双系统；</a></p>
+<p><a href="https://www.jianshu.com/p/179477882133" target="_blank">Surface Pro 6超详细教程之安装黑苹果macOS 10.14单系统；</a></p>
+<p><a href="https://www.jianshu.com/p/6eb827ab5e9a" target="_blank">Surface Pro 6超详细教程之恢复Surface Pro6 windows10系统；</a></p>
+<p><a href="https://www.jianshu.com/p/d1b41d913f91" target="_blank">Surface Pro 6超详细教程之下载Surface Pro6 系统恢复镜像并制作系统恢复U盘。</a></p>
+<p><b>以上系列教程非授权禁止转载。</b></p>
+</blockquote>
+
+
 
 <P>Surface Pro6 安装镜像：<A HREF="https://www.jianshu.com/p/65b9207276fd" target="_blank">Surface Pro6 黑苹果镜像 macOS Mojave 10.14.2 正式版 with Clover 4877</A></p>
 
