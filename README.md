@@ -3,7 +3,7 @@
 
 <p>MacBook Pro之后，Surface Pro6 是我非常喜欢的一款机器，它结束了我以前MacBook + iPad的日子，看超高清PDF书籍做笔记和日常系统应用都可以在一个机器上完成，而且重量加上键盘和笔也就770g+310g+20g = 1100g！出差背着一点都不重，超级喜欢，可惜都已经9012年了Apple也没有这样的机器。基于对Surface Pro6的喜欢我做了4个教程来帮助更多Surface Pro6用户无忧折腾。</p><blockquote>
 <p>Surface Pro6超详细教程一共有4个系列：</p>
-<p><a href="https://www.jianshu.com/p/6eb827ab5e9a" target="_blank">Surface Pro 6超详细教程之安装windows10和黑苹果macOS 10.14双系统；</a></p>
+<p><a href="https://www.jianshu.com/p/a5217b200053" target="_blank">Surface Pro 6超详细教程之安装windows10和黑苹果macOS 10.14双系统；</a></p>
 <p><a href="https://www.jianshu.com/p/179477882133" target="_blank">Surface Pro 6超详细教程之安装黑苹果macOS 10.14单系统；</a></p>
 <p><a href="https://www.jianshu.com/p/6eb827ab5e9a" target="_blank">Surface Pro 6超详细教程之恢复Surface Pro6 windows10系统；</a></p>
 <p><a href="https://www.jianshu.com/p/d1b41d913f91" target="_blank">Surface Pro 6超详细教程之下载Surface Pro6 系统恢复镜像并制作系统恢复U盘。</a></p>
