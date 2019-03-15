@@ -144,7 +144,7 @@
 	<key>Boot</key>
 	<dict>
 		<key>Arguments</key>
-		<string>dart=0 nv_disable=1 -cdfon -igfxnohdmi lilucpu=9 -v -disablegfxfirmware</string>
+		<string>nv_disable=1 dart=0 -cdfon -disablegfxfirmware -igfxnohdmi lilucpu=9</string>
 		<key>CustomLogo</key>
 		<string>Theme</string>
 		<key>Debug</key>
@@ -259,54 +259,6 @@
 					<key>Disabled</key>
 					<false/>
 					<key>FullTitle</key>
-					<string>Surface Recovery</string>
-					<key>Ignore</key>
-					<false/>
-					<key>Path</key>
-					<string>\EFI\Boot\bootx64.efi</string>
-					<key>Type</key>
-					<string>Windows</string>
-					<key>Volume</key>
-					<string>47F3B7F9-3AED-4BE1-BB10-2D9C81384CBB</string>
-					<key>VolumeType</key>
-					<string>External</string>
-				</dict>
-				<dict>
-					<key>Disabled</key>
-					<false/>
-					<key>FullTitle</key>
-					<string>Windwos10 1803 64bit</string>
-					<key>Ignore</key>
-					<false/>
-					<key>Path</key>
-					<string>\efi\boot\bootx64.efi</string>
-					<key>Type</key>
-					<string>Windows</string>
-					<key>Volume</key>
-					<string>4BD66F8E-85A6-43F3-8303-18A0E9CAE06C</string>
-					<key>VolumeType</key>
-					<string>External</string>
-				</dict>
-				<dict>
-					<key>Disabled</key>
-					<false/>
-					<key>FullTitle</key>
-					<string>Windwos10 1809 64bit</string>
-					<key>Ignore</key>
-					<false/>
-					<key>Path</key>
-					<string>\efi\boot\bootx64.efi</string>
-					<key>Type</key>
-					<string>Windows</string>
-					<key>Volume</key>
-					<string>EAA5B588-466C-49E1-BAAB-DFF09B407AFC</string>
-					<key>VolumeType</key>
-					<string>External</string>
-				</dict>
-				<dict>
-					<key>Disabled</key>
-					<false/>
-					<key>FullTitle</key>
 					<string>Ubuntu 18.04.1 LTS</string>
 					<key>Ignore</key>
 					<false/>
@@ -315,7 +267,7 @@
 					<key>Type</key>
 					<string>Linux</string>
 					<key>Volume</key>
-					<string>D578551E-BF79-45BA-9ABD-30D5366A342B</string>
+					<string>E840AC11-C859-4E80-B84D-B6E5E9C8D550</string>
 					<key>VolumeType</key>
 					<string>External</string>
 				</dict>
@@ -520,6 +472,60 @@
 				<key>Replace</key>
 				<data>
 				60ZI/wVscgg=
+				</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>USB Port Limit Patch 1 ©ydeng</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>
+				g/sPD4cWBAA=
+				</data>
+				<key>InfoPlistPatch</key>
+				<false/>
+				<key>Name</key>
+				<string>com.apple.iokit.IOUSBHostFamily</string>
+				<key>Replace</key>
+				<data>
+				g/s/D4cWBAA=
+				</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>USB Port Limit Patch 2 ©ydeng</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>
+				g/sPD4OPBAAA
+				</data>
+				<key>InfoPlistPatch</key>
+				<false/>
+				<key>Name</key>
+				<string>com.apple.driver.usb.AppleUSBXHCI</string>
+				<key>Replace</key>
+				<data>
+				g/s/D4OPBAAA
+				</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>USB Port Limit Patch 3 ©ydeng</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>
+				g+MP0+NBCd8=
+				</data>
+				<key>InfoPlistPatch</key>
+				<false/>
+				<key>Name</key>
+				<string>com.apple.iokit.IOUSBHostFamily</string>
+				<key>Replace</key>
+				<data>
+				g+M/0+NBCd8=
 				</data>
 			</dict>
 		</array>
