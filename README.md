@@ -57,6 +57,7 @@
   <li>内置SD卡槽正常；</li>
   <li>休眠睡眠唤醒正常；</li>
   <li>使用原装网线转接卡正常使用en0，同时可以使用外置USB网卡en1；</li>
+  <li>Siri使用正常；</li> 
   <li>iCloud登陆正常；</li>
   <li>App Store登陆正常，下载正常；</li>
   <li>iMessage登陆正常</li>
