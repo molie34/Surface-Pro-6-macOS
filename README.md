@@ -39,10 +39,10 @@
 </ul>
 <h2>macOS 版本：</h2>
 
-<ul><li>macOS 10.13.6 - macOS 10.14.x，我目前使用macOS 10.14.2正式版</li></ul>
+<ul><li>macOS 10.13.6 - macOS 10.14.x，我目前使用macOS 10.14.3正式版</li></ul>
 <h2>CLOVER版本：</h2>
 <img src="https://github.com/molie34/Surface-Pro-6-macOS/blob/master/images/0.jpg" />
-<ul><li>CLOVER 4877</li>
+<ul><li>CLOVER 4896</li>
    
 </ul>
 <h2>SMC版本：</h2>
