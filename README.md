@@ -11,7 +11,7 @@
 </blockquote>
 
 
-<P>Surface Pro6 安装镜像：<A HREF="#" target="_blank">Surface Pro6 黑苹果镜像 macOS Mojave 10.14.3 正式版 with Clover 4896</A></p>
+<P>Surface Pro6 安装镜像：<A HREF="#" target="_blank">Surface Pro6 黑苹果镜像 macOS Mojave 10.14.3 正式版 with Clover 4901</A></p>
 <P>Surface Pro6 安装镜像：<A HREF="https://www.jianshu.com/p/65b9207276fd" target="_blank">Surface Pro6 黑苹果镜像 macOS Mojave 10.14.2 正式版 with Clover 4877</A></p>
 
 <P>很感谢<A HREF="https://github.com/gdllzkusi/hackintosh--lenovo-Yoga-3-Pro-1370" target="_blank">hackintosh--lenovo-Yoga-3-Pro-1370</A>！,在他提供的经验帮助之上，我修改了适合Pro6 的配置文件最终实现了Surface Pro6 内屏的完美，在没有修复内屏之前我都是使用外接显示器来使用macOS，现在也可以成功使用内屏。这里也要感谢制作DVMT补丁的作者、感谢为黑苹果做出过努力的大神，感谢你们的教程。</P>
