@@ -33,6 +33,7 @@
 </ul>
 <h2>更新信息：</h2>
 <ul>
+  <li>2019-03-26 更新 v1.5 更新CLOVER 4903，支持10.14.4正式版，安装10.14.4更新过程中重启多次的时候必须选择config-Install配置文件，等更新完成进入系统后一定要重建缓存，重建缓存完成后就可以重启使用默认配置文件进入系统</li>
   <li>2019-03-22 更新 v1.4 更新CLOVER 4901，默认启动系统为macOS，请确保你按照教程把macOS分区名称格式为macOS，否则你需要自行修改</li>
   <li>2019-03-15 更新 v1.3 更新CLOVER 4896，更新安装界面全程为中文</li>
   <li>2019-02-24 更新 v1.2 加入R神的SSDT，仿冒一个无用的en0网卡，使用USB无线网卡可以通过Apple ID验证</li>  
@@ -41,7 +42,7 @@
 </ul>
 <h2>macOS 版本：</h2>
 
-<ul><li>macOS 10.13.6 - macOS 10.14.x，我目前使用macOS 10.14.3正式版</li></ul>
+<ul><li>macOS 10.14.1 - macOS 10.14.4，我目前使用macOS 10.14.4正式版</li></ul>
 <h2>CLOVER版本：</h2>
 <img src="https://github.com/molie34/Surface-Pro-6-macOS/blob/master/images/0.jpg" />
 <ul><li>CLOVER 4901</li>
