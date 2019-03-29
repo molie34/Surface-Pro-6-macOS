@@ -33,24 +33,54 @@
 </ul>
 <h2>更新信息：</h2>
 <ul>
-  <li>2019-03-29 更新 v1.6
+  <li>2019-03-29：
   <ul>
-    <li>更新 CLOVER 4910；</li>
-    <li>修复亮度保存；</li>
-    <li>kexts目录加入了两个文件：VoodooI2C.kext、VoodooI2CHID.kext，这两个文件为论坛Pro5 兄弟编译的，只要放入 /System/Library/Extensions/ 目录下然后重建缓存就能使用两指和三指触控板手势，目前轻拍和四指无法使用以及触控板选项里面也显示空白，等有时间了再修复吧，如果你有时间可以自己研究修复，Surface Pro6 触摸板 DSDT名应该为FINK。</li>
+    <li>v1.6</li>
+    <li>更新 CLOVER 4910</li>
+    <li>修复亮度保存</li>
+    <li>kexts目录加入了两个文件：VoodooI2C.kext、VoodooI2CHID.kext，这两个文件为论坛Pro5 兄弟编译的，只要放入 /System/Library/Extensions/ 目录下然后重建缓存就能使用两指和三指触控板手势，目前轻拍和四指无法使用以及触控板选项里面也显示空白，等有时间了再修复吧，如果你有时间可以自己研究修复，Surface Pro6 触摸板 DSDT名应该为FINK</li>
 
   </ul>
   </li>
-  <li>2019-03-26 更新 v1.5 更新CLOVER 4903，支持10.14.4正式版，安装10.14.4更新过程中重启多次的时候必须选择config-Install配置文件，等更新完成进入系统后一定要重建缓存，重建缓存完成后就可以重启使用默认配置文件进入系统</li>
-  <li>2019-03-22 更新 v1.4 更新CLOVER 4901，默认启动系统为macOS，请确保你按照教程把macOS分区名称格式为macOS，否则你需要自行修改</li>
-  <li>2019-03-15 更新 v1.3 更新CLOVER 4896，更新安装界面全程为中文</li>
-  <li>2019-02-24 更新 v1.2 加入R神的SSDT，仿冒一个无用的en0网卡，使用USB无线网卡可以通过Apple ID验证</li>  
-  <li>2019-02-23 更新 v1.1</li>
-  <li>2019-02-21 更新 v1.0</li>
+  <li>2019-03-26:
+   <ul>
+     <li>v1.5</li>
+     <li> 更新CLOVER 4903</li>
+     <li>支持10.14.4正式版</li>
+     <li>安装10.14.4更新过程中重启多次的时候必须选择config-Install配置文件，等更新完成进入系统后一定要重建缓存，重建缓存完成后就可以重启使用默认配置文件进入系统</li>
+   </li>
+   </ul>
+  </li>
+  <li>2019-03-22:
+   <ul>
+     <li>v1.4</li>
+     <li>更新CLOVER 4901</li>
+     <li>默认启动系统为macOS，请确保你按照教程把macOS分区名称格式为macOS，否则你需要自行修改</li>
+  
+  </ul></li>
+
+  <li>2019-03-15:
+  <ul>
+    <li> v1.3</li>
+    <li> 更新CLOVER 4896</li>
+  </ul>
+  </li>
+  <li>2019-02-24:
+    <ul>
+      <li>v1.2</li>
+      <li> 加入R神的SSDT，仿冒一个无用的en0网卡，使用USB无线网卡可以通过Apple ID验证</li>
+    </ul>
+  </li>  
+  <li>2019-02-23:
+   <ul><li>v1.1</li></ul></li>
+  <li>2019-02-21:
+      
+   <ul><li>v1.0</li></ul></li>
+   </li>
 </ul>
 <h2>macOS 版本：</h2>
 
-<ul><li>macOS 10.14.1 - macOS 10.14.4，我目前使用macOS 10.14.4正式版</li></ul>
+<ul><li>macOS 10.14 - macOS 10.14.4，我目前使用macOS 10.14.4正式版</li></ul>
 <h2>CLOVER版本：</h2>
 <img src="https://github.com/molie34/Surface-Pro-6-macOS/blob/master/images/0.jpg" />
 <ul><li>CLOVER 4910</li>
