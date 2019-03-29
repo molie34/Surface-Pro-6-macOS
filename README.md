@@ -71,6 +71,7 @@
   <li>iCloud登陆正常；</li>
   <li>App Store登陆正常，下载正常；</li>
   <li>iMessage登陆正常</li>
+  <li>电源按键正常，按三秒显示关键菜单，按一秒开关屏幕</li>  
   </ul>
 
 <h2>未进行项目：</h2>
