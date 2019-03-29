@@ -37,7 +37,7 @@
   <ul>
     <li>更新 CLOVER 4910；</li>
     <li>修复亮度保存；</li>
-    <li>kexts目录加入了两个文件：VoodooI2C.kext、VoodooI2CHID.kext，这两个文件为论坛Pro5 兄弟编译的，只要放入 /System/Library/Extensions/ 目录下然后重建缓存就能使用两指和三指触控板手势，目前轻拍和四指无法使用以及触控板选项里面也显示空白，等有时间了再修复吧，如果你有时间可以自己研究修复。</li>
+    <li>kexts目录加入了两个文件：VoodooI2C.kext、VoodooI2CHID.kext，这两个文件为论坛Pro5 兄弟编译的，只要放入 /System/Library/Extensions/ 目录下然后重建缓存就能使用两指和三指触控板手势，目前轻拍和四指无法使用以及触控板选项里面也显示空白，等有时间了再修复吧，如果你有时间可以自己研究修复，Surface Pro6 触摸板 DSDT名应该为FINK。</li>
 
   </ul>
   </li>
