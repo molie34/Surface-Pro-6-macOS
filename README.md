@@ -33,6 +33,18 @@
 </ul>
 <h2>更新信息：</h2>
 <ul>
+  <li>2019-03-31：
+  <ul>
+    <li>v1.7</li>
+    <li>更新 CLOVER 4912</li>
+    <li>更新 liu 1.3.5</li>
+    <li>更新 AppleALC 1.3.6</li>
+    <li>更新 USBInjectAll 0.7.1</li>
+    <li>取消最低800MHz档位变频</li>
+    <li>重新生成新变频，档位在13-16档左右，最低档位1300 MHz、i5处最高档位3400 MHz，i7最高档位4200 MHz</li>
+
+  </ul>
+  </li>
   <li>2019-03-29：
   <ul>
     <li>v1.6</li>
@@ -83,11 +95,10 @@
 <ul><li>macOS 10.14 - macOS 10.14.4，我目前使用macOS 10.14.4正式版</li></ul>
 <h2>CLOVER版本：</h2>
 <img src="https://github.com/molie34/Surface-Pro-6-macOS/blob/master/images/0.jpg" />
-<ul><li>CLOVER 4910</li>
+<ul><li>CLOVER 4912</li>
    
 </ul>
-<h2>SMC版本：</h2>
-<ul><li>使用VirtualSMC 1.2.7</li></ul>
+
 <h2>目前完成：</h2>
 <ul>
   <li>内屏显示内建正常；</li>
@@ -137,6 +148,7 @@
 <img src="https://github.com/molie34/Surface-Pro-6-macOS/blob/master/images/7.jpg" />
 <img src="https://github.com/molie34/Surface-Pro-6-macOS/blob/master/images/8.jpg" />
 <img src="https://github.com/molie34/Surface-Pro-6-macOS/blob/master/images/9.jpg" />
+<img src="https://github.com/molie34/Surface-Pro-6-macOS/blob/master/images/10.jpg" />
 
 
 <h2><a class="anchor" id="user-content-感谢" aria-hidden="true" href="#感谢"><svg xmlns="http://www.w3.org/2000/svg" class="octicon octicon-link" aria-hidden="true" viewBox="0 0 16 16" width="16" height="16" version="1.1"><path fill-rule="evenodd" d="M 4 9 h 1 v 1 H 4 c -1.5 0 -3 -1.69 -3 -3.5 S 2.55 3 4 3 h 4 c 1.45 0 3 1.69 3 3.5 c 0 1.41 -0.91 2.72 -2 3.25 V 8.59 c 0.58 -0.45 1 -1.27 1 -2.09 C 10 5.22 8.98 4 8 4 H 4 c -0.98 0 -2 1.22 -2 2.5 S 3 9 4 9 Z m 9 -3 h -1 v 1 h 1 c 1 0 2 1.22 2 2.5 S 13.98 12 13 12 H 9 c -0.98 0 -2 -1.22 -2 -2.5 c 0 -0.83 0.42 -1.64 1 -2.09 V 6.25 c -1.09 0.53 -2 1.84 -2 3.25 C 6 11.31 7.55 13 9 13 h 4 c 1.45 0 3 -1.69 3 -3.5 S 14.5 6 13 6 Z" /></svg></a>感谢</h2>
