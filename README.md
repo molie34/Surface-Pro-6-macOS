@@ -9,7 +9,7 @@
 <p><a href="https://www.jianshu.com/p/d1b41d913f91" target="_blank">Surface Pro 6超详细教程之下载Surface Pro6 系统恢复镜像并制作系统恢复U盘。</a></p>
 <p><b>以上系列教程非授权禁止转载。</b></p>
 </blockquote>
-
+<img src="https://github.com/molie34/Surface-Pro-6-macOS/blob/master/images/nokeyboard.jpg" />
 
 <P>Surface Pro6 安装镜像：<A HREF="#" target="_blank">Surface Pro6 黑苹果镜像 macOS Mojave 10.14.3 正式版 with Clover 4901</A></p>
 <P>Surface Pro6 安装镜像：<A HREF="https://www.jianshu.com/p/65b9207276fd" target="_blank">Surface Pro6 黑苹果镜像 macOS Mojave 10.14.2 正式版 with Clover 4877</A></p>
@@ -32,7 +32,22 @@
   <li>硬盘：	SK HYNIX Skhynix BC501 NVMe 128GB</li>
 </ul>
 <h2>更新信息：</h2>
+<p>请在macOS用Clover Configurator 打开黑苹果配置所在的EFI分区，然后删除 EFI/目录下BOOT、CLOVER 这个两个目录，再把下载好的EFI文件内BOOT、CLOVER 目录拖到系统 EFI/目录下完成更新。</p>
 <ul>
+ <!-- <li>2019-04-02：
+  <ul>
+    <li>v1.8</li>
+    <li>更新 CLOVER 49xx</li>
+    <li>更新 drivers64UEFI
+        <ul>
+          <li>添加 AudioDxe-64.efi</li>
+        </ul>
+    </li>
+    <li>添加 ACPIBatteryManager.kext 1.90.1,完善触控板设置，由CabbSir测试提交发现，截止目前Surface Pro6 的触控板已经完美</li>
+    <li>虽然目前添加了电池驱动，但是没有做任何电池和电源适配器修复，如果发现无法进入系统，请在COVER 界面设置禁止加载ACPIBatteryManager.kext 即可重新进入系统</li>
+    <li>如果你有任何分享请在Issues提交问题，一个人的精力去测试实在有限</li>
+  </ul>
+  </li>-->
   <li>2019-03-31：
   <ul>
     <li>v1.7</li>
@@ -50,7 +65,20 @@
     <li>v1.6</li>
     <li>更新 CLOVER 4910</li>
     <li>修复亮度保存</li>
-    <li>kexts目录加入了两个文件：VoodooI2C.kext、VoodooI2CHID.kext，这两个文件为论坛Pro5 兄弟编译的，只要放入 /System/Library/Extensions/ 目录下然后重建缓存就能使用两指和三指触控板手势，目前轻拍和四指无法使用以及触控板选项里面也显示空白，等有时间了再修复吧，如果你有时间可以自己研究修复，Surface Pro6 触摸板 DSDT名应该为FINK</li>
+    <li>精简并更新 drivers64UEFI
+        <ul>
+          <li>去除 AudioDxe-64.efi</li>
+          <li>去除 Fat-64.efi</li>
+          <li>去除 UsbKbDxe-64.efi</li>
+          <li>去除 UsbMouseDxe-64.efi</li>
+          <li>去除 VBoxHfs-64.efi</li>  
+          <li>更新 EmuVariableUefi-64.efi</li> 
+          <li>更新 HFSPlus.efi</li> 
+        </ul>
+      </li>
+    <li>去除 CodecCommander.kext</li>
+    <li>去除 VoodooPS2Controller.kext</li>
+    <li>kexts目录加入了两个文件：VoodooI2C.kext、VoodooI2CHID.kext，这两个文件为论坛Pro5 兄弟编译的，只要放入 /System/Library/Extensions/ 目录下然后重建缓存就能使用两指和三指触控板手势，四指触控手势</li>
 
   </ul>
   </li>
