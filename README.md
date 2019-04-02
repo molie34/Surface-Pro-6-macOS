@@ -128,7 +128,7 @@
 <ul><li>macOS 10.14 - macOS 10.14.4，我目前使用macOS 10.14.4正式版</li></ul>
 <h2>CLOVER版本：</h2>
 <img src="https://github.com/molie34/Surface-Pro-6-macOS/blob/master/images/0.jpg" />
-<ul><li>CLOVER 4912</li>
+<ul><li>CLOVER 4915</li>
    
 </ul>
 
