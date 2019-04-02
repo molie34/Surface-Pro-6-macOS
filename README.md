@@ -30,6 +30,8 @@
   <li>分辨率： 2736 x 1824</li>
   <li>硬盘：	SK HYNIX Skhynix BC501 NVMe 128GB</li>
 </ul>
+<h2>关于WiFi的解决办法：</h2>
+<p>使用COMFAST USB无线网卡即可，具体型号：COMFAST CF-915AC</p>
 <h2>更新信息：</h2>
 <p>请在macOS用Clover Configurator 打开黑苹果配置所在的EFI分区，然后删除 EFI/目录下BOOT、CLOVER 这个两个目录，再把下载好的EFI文件内BOOT、CLOVER 目录拖到系统 EFI/目录下完成更新。</p>
 <ul>
