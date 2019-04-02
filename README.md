@@ -9,7 +9,6 @@
 <p><a href="https://www.jianshu.com/p/d1b41d913f91" target="_blank">Surface Pro 6超详细教程之下载Surface Pro6 系统恢复镜像并制作系统恢复U盘。</a></p>
 <p><b>以上系列教程非授权禁止转载。</b></p>
 </blockquote>
-<img src="./images/nokeyborad.jpg" />
 
 <P>Surface Pro6 安装镜像：<A HREF="https://www.jianshu.com/p/560659017a7f" target="_blank">Surface Pro6 黑苹果镜像 macOS Mojave 10.14.4 正式版 with Clover 4915</A></p>
 <P>Surface Pro6 安装镜像：<A HREF="https://www.jianshu.com/p/65b9207276fd" target="_blank">Surface Pro6 黑苹果镜像 macOS Mojave 10.14.2 正式版 with Clover 4877</A></p>
@@ -37,7 +36,7 @@
   <li>2019-04-02：
   <ul>
     <li>v1.8</li>
-    <li>更新 CLOVER 49xx</li>
+    <li>更新 CLOVER 4915</li>
     <li>更新 drivers64UEFI 驱动
         <ul>
           <li>添加 AudioDxe-64.efi</li>
