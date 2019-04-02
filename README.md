@@ -10,8 +10,7 @@
 <p><b>以上系列教程非授权禁止转载。</b></p>
 </blockquote>
 
-<P>Surface Pro6 安装镜像：<A HREF="https://www.jianshu.com/p/560659017a7f" target="_blank">Surface Pro6 黑苹果镜像 macOS Mojave 10.14.4 正式版 with Clover 4915</A></p>
-<P>Surface Pro6 安装镜像：<A HREF="https://www.jianshu.com/p/65b9207276fd" target="_blank">Surface Pro6 黑苹果镜像 macOS Mojave 10.14.2 正式版 with Clover 4877</A></p>
+
 
 <P>很感谢<A HREF="https://github.com/gdllzkusi/hackintosh--lenovo-Yoga-3-Pro-1370" target="_blank">hackintosh--lenovo-Yoga-3-Pro-1370</A>！,在他提供的经验帮助之上，我修改了适合Pro6 的配置文件最终实现了Surface Pro6 内屏的完美，在没有修复内屏之前我都是使用外接显示器来使用macOS，现在也可以成功使用内屏。这里也要感谢制作DVMT补丁的作者、感谢为黑苹果做出过努力的大神，感谢你们的教程。</P>
 
@@ -32,6 +31,9 @@
 </ul>
 <h2>关于WiFi的解决办法：</h2>
 <p>使用COMFAST USB无线网卡即可，具体型号：COMFAST CF-915AC</p>
+<h2>Surface Pro6 专用黑苹果镜像</h2>
+<P>Surface Pro6 安装镜像：<A HREF="https://www.jianshu.com/p/560659017a7f" target="_blank">Surface Pro6 黑苹果镜像 macOS Mojave 10.14.4 正式版 with Clover 4915</A></p>
+<P>Surface Pro6 安装镜像：<A HREF="https://www.jianshu.com/p/65b9207276fd" target="_blank">Surface Pro6 黑苹果镜像 macOS Mojave 10.14.2 正式版 with Clover 4877</A></p>
 <h2>更新信息：</h2>
 <p>请在macOS用Clover Configurator 打开黑苹果配置所在的EFI分区，然后删除 EFI/目录下BOOT、CLOVER 这个两个目录，再把下载好的EFI文件内BOOT、CLOVER 目录拖到系统 EFI/目录下完成更新。</p>
 <ul>
