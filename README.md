@@ -11,7 +11,7 @@
 </blockquote>
 <img src="./images/nokeyborad.jpg" />
 
-<P>Surface Pro6 安装镜像：<A HREF="#" target="_blank">Surface Pro6 黑苹果镜像 macOS Mojave 10.14.3 正式版 with Clover 4901</A></p>
+<P>Surface Pro6 安装镜像：<A HREF="https://www.jianshu.com/p/560659017a7f" target="_blank">Surface Pro6 黑苹果镜像 macOS Mojave 10.14.4 正式版 with Clover 4915</A></p>
 <P>Surface Pro6 安装镜像：<A HREF="https://www.jianshu.com/p/65b9207276fd" target="_blank">Surface Pro6 黑苹果镜像 macOS Mojave 10.14.2 正式版 with Clover 4877</A></p>
 
 <P>很感谢<A HREF="https://github.com/gdllzkusi/hackintosh--lenovo-Yoga-3-Pro-1370" target="_blank">hackintosh--lenovo-Yoga-3-Pro-1370</A>！,在他提供的经验帮助之上，我修改了适合Pro6 的配置文件最终实现了Surface Pro6 内屏的完美，在没有修复内屏之前我都是使用外接显示器来使用macOS，现在也可以成功使用内屏。这里也要感谢制作DVMT补丁的作者、感谢为黑苹果做出过努力的大神，感谢你们的教程。</P>
@@ -34,20 +34,22 @@
 <h2>更新信息：</h2>
 <p>请在macOS用Clover Configurator 打开黑苹果配置所在的EFI分区，然后删除 EFI/目录下BOOT、CLOVER 这个两个目录，再把下载好的EFI文件内BOOT、CLOVER 目录拖到系统 EFI/目录下完成更新。</p>
 <ul>
- <!-- <li>2019-04-02：
+  <li>2019-04-02：
   <ul>
     <li>v1.8</li>
     <li>更新 CLOVER 49xx</li>
-    <li>更新 drivers64UEFI
+    <li>更新 drivers64UEFI 驱动
         <ul>
           <li>添加 AudioDxe-64.efi</li>
         </ul>
     </li>
-    <li>添加 ACPIBatteryManager.kext 1.90.1,完善触控板设置，由CabbSir测试提交发现，截止目前Surface Pro6 的触控板已经完美</li>
-    <li>虽然目前添加了电池驱动，但是没有做任何电池和电源适配器修复，如果发现无法进入系统，请在COVER 界面设置禁止加载ACPIBatteryManager.kext 即可重新进入系统</li>
-    <li>如果你有任何分享请在Issues提交问题，一个人的精力去测试实在有限</li>
+    <li>添加 ACPIBatteryManager.kext 1.90.1,完善触控板设置，由CabbSir测试发现，经过测试截止目前Surface Pro6 的触控板已经完美</li>
+    <li>虽然添加了电池驱动，但是没有做任何电池和电源适配器修复，如果发现无法进入系统，请在COVER 界面设置禁止加载ACPIBatteryManager.kext 即可重新进入系统</li>
+    <li>如果你有任何分享请在Issues提交问题，个人的精力实在有限</li>
+    
+
   </ul>
-  </li>-->
+  </li>
   <li>2019-03-31：
   <ul>
     <li>v1.7</li>
@@ -177,6 +179,7 @@
 <img src="https://github.com/molie34/Surface-Pro-6-macOS/blob/master/images/8.jpg" />
 <img src="https://github.com/molie34/Surface-Pro-6-macOS/blob/master/images/9.jpg" />
 <img src="https://github.com/molie34/Surface-Pro-6-macOS/blob/master/images/10.jpg" />
+<img src="https://github.com/molie34/Surface-Pro-6-macOS/blob/master/images/11.jpg" />
 
 
 <h2><a class="anchor" id="user-content-感谢" aria-hidden="true" href="#感谢"><svg xmlns="http://www.w3.org/2000/svg" class="octicon octicon-link" aria-hidden="true" viewBox="0 0 16 16" width="16" height="16" version="1.1"><path fill-rule="evenodd" d="M 4 9 h 1 v 1 H 4 c -1.5 0 -3 -1.69 -3 -3.5 S 2.55 3 4 3 h 4 c 1.45 0 3 1.69 3 3.5 c 0 1.41 -0.91 2.72 -2 3.25 V 8.59 c 0.58 -0.45 1 -1.27 1 -2.09 C 10 5.22 8.98 4 8 4 H 4 c -0.98 0 -2 1.22 -2 2.5 S 3 9 4 9 Z m 9 -3 h -1 v 1 h 1 c 1 0 2 1.22 2 2.5 S 13.98 12 13 12 H 9 c -0.98 0 -2 -1.22 -2 -2.5 c 0 -0.83 0.42 -1.64 1 -2.09 V 6.25 c -1.09 0.53 -2 1.84 -2 3.25 C 6 11.31 7.55 13 9 13 h 4 c 1.45 0 3 -1.69 3 -3.5 S 14.5 6 13 6 Z" /></svg></a>感谢</h2>
