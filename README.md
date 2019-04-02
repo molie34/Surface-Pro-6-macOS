@@ -9,7 +9,7 @@
 <p><a href="https://www.jianshu.com/p/d1b41d913f91" target="_blank">Surface Pro 6超详细教程之下载Surface Pro6 系统恢复镜像并制作系统恢复U盘。</a></p>
 <p><b>以上系列教程非授权禁止转载。</b></p>
 </blockquote>
-<img src="https://github.com/molie34/Surface-Pro-6-macOS/blob/master/images/nokeyboard.jpg" />
+<img src="./images/nokeyborad.jpg" />
 
 <P>Surface Pro6 安装镜像：<A HREF="#" target="_blank">Surface Pro6 黑苹果镜像 macOS Mojave 10.14.3 正式版 with Clover 4901</A></p>
 <P>Surface Pro6 安装镜像：<A HREF="https://www.jianshu.com/p/65b9207276fd" target="_blank">Surface Pro6 黑苹果镜像 macOS Mojave 10.14.2 正式版 with Clover 4877</A></p>
