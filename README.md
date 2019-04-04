@@ -31,6 +31,7 @@
 </ul>
 <h2>关于WiFi的解决办法：</h2>
 <p>使用COMFAST USB无线网卡即可，具体型号：COMFAST CF-915AC</p>
+<p>使用这个驱动很稳定：链接:https://pan.baidu.com/s/1nwHIZhdiYHJJnedqVnqouQ  密码:isls</p>
 <h2>Surface Pro6 专用黑苹果镜像</h2>
 <P>Surface Pro6 安装镜像：<A HREF="https://www.jianshu.com/p/560659017a7f" target="_blank">Surface Pro6 黑苹果镜像 macOS Mojave 10.14.4 正式版 with Clover 4915</A></p>
 <P>Surface Pro6 安装镜像：<A HREF="https://www.jianshu.com/p/65b9207276fd" target="_blank">Surface Pro6 黑苹果镜像 macOS Mojave 10.14.2 正式版 with Clover 4877</A></p>
