@@ -10,12 +10,6 @@
 <p><b>以上系列教程非授权禁止转载。</b></p>
 </blockquote>
 
-
-
-<P>很感谢<A HREF="https://github.com/gdllzkusi/hackintosh--lenovo-Yoga-3-Pro-1370" target="_blank">hackintosh--lenovo-Yoga-3-Pro-1370</A>！,在他提供的经验帮助之上，我修改了适合Pro6 的配置文件最终实现了Surface Pro6 内屏的完美，在没有修复内屏之前我都是使用外接显示器来使用macOS，现在也可以成功使用内屏。这里也要感谢制作DVMT补丁的作者、感谢为黑苹果做出过努力的大神，感谢你们的教程。</P>
-
-远景论坛查看帖子：<A HREF="http://bbs.pcbeta.com/viewthread-1806047-1-1.html" target="_blank">Surface Pro6 黑苹果</A>
-
 <h2>配置信息</h2>
 <ul>
   <li>品牌型号：Microsoft Surface Pro 6 无风扇版</li>
@@ -31,6 +25,16 @@
 </ul>
 <h2>关于WiFi的解决办法：</h2>
 <p>使用COMFAST USB无线网卡即可，具体型号：COMFAST CF-915AC</p>
+<p>使用这个驱动很稳定：链接:https://pan.baidu.com/s/1nwHIZhdiYHJJnedqVnqouQ  密码:isls</p>
+<h2>关于蓝牙的解决办法：</h2>
+<p>使用某联或者CSR芯片的USB蓝牙即可，绿联的蓝牙是免驱动的插上去直接识别，我目前也有这个设备，可以连接键盘、鼠标、耳机，AirPods2。</p>
+
+
+<h2>关于使用USB蓝牙鼠标键盘卡顿解决办法：</h2>
+<p>目前我使用一个带供电的USB3.0 集线器和一个USB2.0集线器日常使用表现良好，USB3.0 HUB(0.6米)上插1TB SSD U盘；USB2.0 HUB(0.2米)插：USB无线网卡、USB蓝牙接收器、无线机械键盘。USB3.0 HUB+ USB3.0 HUB这种模式尝试过，即使带供电一样表现很糟糕。</p>
+
+
+
 <h2>Surface Pro6 专用黑苹果镜像</h2>
 <P>Surface Pro6 安装镜像：<A HREF="https://www.jianshu.com/p/560659017a7f" target="_blank">Surface Pro6 黑苹果镜像 macOS Mojave 10.14.4 正式版 with Clover 4915</A></p>
 <P>Surface Pro6 安装镜像：<A HREF="https://www.jianshu.com/p/65b9207276fd" target="_blank">Surface Pro6 黑苹果镜像 macOS Mojave 10.14.2 正式版 with Clover 4877</A></p>
@@ -184,7 +188,7 @@
 <img src="https://github.com/molie34/Surface-Pro-6-macOS/blob/master/images/9.jpg" />
 <img src="https://github.com/molie34/Surface-Pro-6-macOS/blob/master/images/10.jpg" />
 <img src="https://github.com/molie34/Surface-Pro-6-macOS/blob/master/images/11.jpg" />
-
+<img src="https://github.com/molie34/Surface-Pro-6-macOS/blob/master/images/12.jpg" />
 
 <h2><a class="anchor" id="user-content-感谢" aria-hidden="true" href="#感谢"><svg xmlns="http://www.w3.org/2000/svg" class="octicon octicon-link" aria-hidden="true" viewBox="0 0 16 16" width="16" height="16" version="1.1"><path fill-rule="evenodd" d="M 4 9 h 1 v 1 H 4 c -1.5 0 -3 -1.69 -3 -3.5 S 2.55 3 4 3 h 4 c 1.45 0 3 1.69 3 3.5 c 0 1.41 -0.91 2.72 -2 3.25 V 8.59 c 0.58 -0.45 1 -1.27 1 -2.09 C 10 5.22 8.98 4 8 4 H 4 c -0.98 0 -2 1.22 -2 2.5 S 3 9 4 9 Z m 9 -3 h -1 v 1 h 1 c 1 0 2 1.22 2 2.5 S 13.98 12 13 12 H 9 c -0.98 0 -2 -1.22 -2 -2.5 c 0 -0.83 0.42 -1.64 1 -2.09 V 6.25 c -1.09 0.53 -2 1.84 -2 3.25 C 6 11.31 7.55 13 9 13 h 4 c 1.45 0 3 -1.69 3 -3.5 S 14.5 6 13 6 Z" /></svg></a>感谢</h2>
 <ul>
