@@ -198,13 +198,18 @@
 		<key>DefaultVolume</key>
 		<string>macOS</string>
 		<key>NoEarlyProgress</key>
-		<false/>
+		<true/>
 		<key>Secure</key>
 		<false/>
 		<key>Timeout</key>
 		<integer>3</integer>
 		<key>XMPDetection</key>
 		<false/>
+	</dict>
+	<key>BootGraphics</key>
+	<dict>
+		<key>UIScale</key>
+		<integer>2</integer>
 	</dict>
 	<key>CPU</key>
 	<dict>
@@ -308,6 +313,8 @@
 		<dict>
 			<key>DoubleClick</key>
 			<integer>500</integer>
+			<key>Enabled</key>
+			<false/>
 			<key>Mirror</key>
 			<false/>
 			<key>Speed</key>
@@ -319,11 +326,11 @@
 			<true/>
 			<key>Legacy</key>
 			<false/>
-			<key>Linux</key>
-			<true/>
 			<key>Tool</key>
 			<true/>
 		</dict>
+		<key>ScreenResolution</key>
+		<string>1920x1080</string>
 		<key>Theme</key>
 		<string>black_green</string>
 	</dict>
@@ -331,15 +338,8 @@
 	<dict>
 		<key>EDID</key>
 		<dict>
-			<key>Custom</key>
-			<data>
-			AP///////wAw5FUFoQAAEAAaAQSlGhF4A+6Vo1RMmSYPUFQAAAAB
-			AQEBAQEBAQEBAQEBAQEBP3+woKAgNHAwIDoABK0QAAAZAAAA/QAw
-			PAAAIQQKFBQUFBQUAAAA/gBMR0RfTVAwLjJfCiAgAAAA/gBMUDEy
-			M1dRMTEyNjA0AD8=
-			</data>
 			<key>Inject</key>
-			<true/>
+			<false/>
 		</dict>
 		<key>Inject</key>
 		<dict>

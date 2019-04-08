@@ -41,6 +41,16 @@
 <h2>更新信息：</h2>
 <p>请在macOS用Clover Configurator 打开黑苹果配置所在的EFI分区，然后删除 EFI/目录下BOOT、CLOVER 这个两个目录，再把下载好的EFI文件内BOOT、CLOVER 目录拖到系统 EFI/目录下完成更新。</p>
 <ul>
+  <li>2019-04-08：
+  <ul>
+    <li>v1.9</li>
+    <li>更新 CLOVER 4919</li>
+    <li>修复进入系统第一阶段苹果图标大小显示</li>
+    <li>去除载入CLOVER前的版本提示</li>
+    <li>去除默认配置文件EDID注入信息</li>
+  </ul>
+  </li>
+
   <li>2019-04-02：
   <ul>
     <li>v1.8</li>
