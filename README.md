@@ -31,8 +31,8 @@
 <p>使用某联或者CSR芯片的USB蓝牙即可，绿联的蓝牙是免驱动的插上去直接识别，我目前也有这个设备，可以连接键盘、鼠标、耳机，AirPods2。</p>
 
 
-<h2>关于使用USB蓝牙鼠标键盘卡顿解决办法：</h2>
-<p>目前我使用一个带供电的USB3.0 集线器和一个USB2.0集线器日常使用表现良好，USB3.0 HUB(0.6米)上插1TB SSD U盘；USB2.0 HUB(0.2米)插：USB无线网卡、USB蓝牙接收器、无线机械键盘。USB3.0 HUB+ USB3.0 HUB这种模式尝试过，即使带供电一样表现很糟糕。</p>
+<h2>关于使用USB蓝牙/无线鼠标键盘卡顿解决办法：</h2>
+<p>目前我使用一个带供电的USB3.0 集线器和一个USB2.0集线器日常使用表现良好，USB3.0 HUB(0.6米)上插1TB SSD U盘；USB2.0 HUB(0.2米)插：USB无线网卡、USB蓝牙接收器、无线鼠标/机械键盘。USB3.0 HUB+ USB3.0 HUB这种模式尝试过，即使带供电一样表现很糟糕。</p>
 <img src="https://github.com/molie34/Surface-Pro-6-macOS/blob/master/images/USBly.jpg" />
 
 
