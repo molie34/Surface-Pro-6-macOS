@@ -1,9 +1,4 @@
-<blockquote>
-<h2>20190410特别提醒：</h2>
-<p>Pro6 用户暂时不要在win10里面更新这个：Surface - Firmware - 2/14/2019 12:00:00 AM - 239.3001.139.0 UEFI版本。</p>
-<p>请确保自己的UEFI版本保留在：234.2344.769</p>
-<p>目前已有Pro5-Pro3用户更新UEFI固件后无法进入系统，这个更新跟efi驱动有关联，建议等解决之后所有Pro用户再安稳更新UEFI。</p>
-</blockquote>
+
 <h1>Surface Pro 6 黑苹果  CLOVER 配置文件,全球首发</h1></br>
 
 
