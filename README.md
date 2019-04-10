@@ -1,9 +1,11 @@
-<h1>Surface Pro 6 黑苹果  CLOVER 配置文件,全球首发</h1></br>
-
+<blockquote>
 <h2>20190410特别提醒：</h2>
 <p>Pro6 用户暂时不要在win10里面更新这个：Surface - Firmware - 2/14/2019 12:00:00 AM - 239.3001.139.0 UEFI版本。</p>
 <p>请确保自己的UEFI版本保留在：234.2344.769</p>
 <p>目前已有Pro5-Pro3用户更新UEFI固件后无法进入系统，这个更新跟efi驱动有关联，建议等解决之后所有Pro用户再安稳更新UEFI。</p>
+</blockquote>
+<h1>Surface Pro 6 黑苹果  CLOVER 配置文件,全球首发</h1></br>
+
 
 <P>Surface Pro 6 的UEFI BIOS和别的机型BIOS相比较处在一个很特殊的地位，我光是为了解决卡++++++++就花了将近一个月，总过花了一个月17天终于解决了UHD620内屏黑屏的问题！这背后总共试验了1200多次试错，我也收获了对surface pro系列的一些特性了解，整个折腾过程我很享受。</P>
 
