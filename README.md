@@ -1,4 +1,7 @@
+
 <h1>Surface Pro 6 黑苹果  CLOVER 配置文件,全球首发</h1></br>
+
+
 <P>Surface Pro 6 的UEFI BIOS和别的机型BIOS相比较处在一个很特殊的地位，我光是为了解决卡++++++++就花了将近一个月，总过花了一个月17天终于解决了UHD620内屏黑屏的问题！这背后总共试验了1200多次试错，我也收获了对surface pro系列的一些特性了解，整个折腾过程我很享受。</P>
 
 <p>MacBook Pro之后，Surface Pro6 是我非常喜欢的一款机器，它结束了我以前MacBook + iPad的日子，看超高清PDF书籍做笔记和日常系统应用都可以在一个机器上完成，而且重量加上键盘和笔也就770g+310g+20g = 1100g！出差背着一点都不重，超级喜欢，可惜都已经9012年了Apple也没有这样的机器。基于对Surface Pro6的喜欢我做了4个教程来帮助更多Surface Pro6用户无忧折腾。</p><blockquote>
@@ -31,8 +34,8 @@
 <p>使用某联或者CSR芯片的USB蓝牙即可，绿联的蓝牙是免驱动的插上去直接识别，我目前也有这个设备，可以连接键盘、鼠标、耳机，AirPods2。</p>
 
 
-<h2>关于使用USB蓝牙鼠标键盘卡顿解决办法：</h2>
-<p>目前我使用一个带供电的USB3.0 集线器和一个USB2.0集线器日常使用表现良好，USB3.0 HUB(0.6米)上插1TB SSD U盘；USB2.0 HUB(0.2米)插：USB无线网卡、USB蓝牙接收器、无线机械键盘。USB3.0 HUB+ USB3.0 HUB这种模式尝试过，即使带供电一样表现很糟糕。</p>
+<h2>关于使用USB蓝牙/无线鼠标键盘卡顿解决办法：</h2>
+<p>目前我使用一个带供电的USB3.0 集线器和一个USB2.0集线器日常使用表现良好，USB3.0 HUB(0.6米)上插1TB SSD U盘；USB2.0 HUB(0.2米)插：USB无线网卡、USB蓝牙接收器、无线鼠标/机械键盘。USB3.0 HUB+ USB3.0 HUB这种模式尝试过，即使带供电一样表现很糟糕。</p>
 <img src="https://github.com/molie34/Surface-Pro-6-macOS/blob/master/images/USBly.jpg" />
 
 
