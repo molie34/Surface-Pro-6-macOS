@@ -42,7 +42,7 @@
 
 
 <h2>Surface Pro6 专用黑苹果镜像</h2>
-<P>Surface Pro6 安装镜像：<A HREF="https://www.jianshu.com/p/560659017a7f" target="_blank">Surface Pro6 黑苹果镜像 macOS Mojave 10.14.4 正式版 with Clover 4915</A></p>
+<P>Surface Pro6 安装镜像：<A HREF="https://www.jianshu.com/p/560659017a7f" target="_blank">Surface Pro6 黑苹果镜像 macOS Mojave 10.14.4 正式版 with Clover 4919</A></p>
 <P>Surface Pro6 安装镜像：<A HREF="https://www.jianshu.com/p/65b9207276fd" target="_blank">Surface Pro6 黑苹果镜像 macOS Mojave 10.14.2 正式版 with Clover 4877</A></p>
 <h2>更新信息：</h2>
 <p>请在macOS用Clover Configurator 打开黑苹果配置所在的EFI分区，然后删除 EFI/目录下BOOT、CLOVER 这个两个目录，再把下载好的EFI文件内BOOT、CLOVER 目录拖到系统 EFI/目录下完成更新。</p>
