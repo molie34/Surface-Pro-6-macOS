@@ -28,7 +28,7 @@
 </ul>
 <h2>关于WiFi的解决办法：</h2>
 <p>使用COMFAST USB无线网卡即可，具体型号：COMFAST CF-915AC</p>
-<p>使用这个驱动很稳定：链接:https://pan.baidu.com/s/1nwHIZhdiYHJJnedqVnqouQ  密码:isls</p>
+<p>使用这个驱动很稳定：链接:https://pan.baidu.com/s/1aaUNqg6BJxlPxeq4WoTgSw  密码:y9b0</p>
 
 <h2>关于蓝牙的解决办法：</h2>
 <p>使用某联或者CSR芯片的USB蓝牙即可，绿联的蓝牙是免驱动的插上去直接识别，我目前也有这个设备，可以连接键盘、鼠标、耳机，AirPods2(完美)。</p>
