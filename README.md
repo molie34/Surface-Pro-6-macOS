@@ -55,7 +55,7 @@
     <li>使用原生变频</li> 
     <li>移除 CPUFriend.kext</li>
     <li>移除 CPUFriendDataProvider.kext</li>
-    <li>关于10.14.4安装完后用config-Instll进入系统无限重启的，请在CLOVER界面光标移到macOS图标上按空格进入引导设置界面，选择“Block injected kexts”进入禁止加载驱动界面，选择10.14之后禁用“SMCBatteryManager.kext” 电池驱动即可进入系统进行重建缓存。</li>
+    <li>关于10.14.4安装完后用config-Instll进入系统无限重启的，请在CLOVER界面光标移到macOS图标上按空格进入引导设置界面，选择“Block injected kexts”进入禁止加载驱动界面，选择10.14驱动目录，然后勾选“SMCBatteryManager.kext” 即可禁用电池驱动，按ESC回到主界面选择config-Intall进系统进行重建缓存。</li>
   </ul>
   </li>
 
