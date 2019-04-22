@@ -14,6 +14,8 @@
 			<false/>
 			<key>Fixes</key>
 			<dict>
+				<key>AddDTGP</key>
+				<false/>
 				<key>AddPNLF</key>
 				<false/>
 				<key>FixRegions</key>
@@ -286,6 +288,8 @@
 		</dict>
 		<key>SetIntelBacklight</key>
 		<false/>
+		<key>SetIntelMaxBacklight</key>
+		<false/>
 		<key>USB</key>
 		<dict>
 			<key>AddClockID</key>
@@ -492,6 +496,26 @@
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>MatchOS</key>
+				<string>10.14.2</string>
+				<key>Name</key>
+				<string>com.apple.driver.AppleIntelKBLGraphicsFramebuffer</string>
+				<key>Replace</key>
+				<data>
+				60ZI/wVscgg=
+				</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>禁用minStolenSize小于或等于fStolenMemorySize断言，10.14.3 （基于Ricky的Austere.J补丁）</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>
+				dkZI/wVscgg=
+				</data>
+				<key>InfoPlistPatch</key>
+				<false/>
+				<key>MatchOS</key>
 				<string>10.14.3</string>
 				<key>Name</key>
 				<string>com.apple.driver.AppleIntelKBLGraphicsFramebuffer</string>
@@ -622,7 +646,7 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>Comment: Disable minStolenSize less or equal fStolenMemorySize assertion, 10.14.4 (based on Austere.J patch by Ricky)</string>
+				<string>Disable minStolenSize less or equal fStolenMemorySize assertion, 10.14.4 (based on Austere.J patch by Ricky)</string>
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>

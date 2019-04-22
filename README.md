@@ -47,6 +47,15 @@
 <h2>更新信息：</h2>
 <p>请在macOS用Clover Configurator 打开黑苹果配置所在的EFI分区，然后删除 EFI/目录下BOOT、CLOVER 这个两个目录，再把下载好的EFI文件内BOOT、CLOVER 目录拖到系统 EFI/目录下完成更新。</p>
 <ul>
+  <li>2019-04-22：
+  <ul>
+    <li>v1.9.2</li>
+    <li>修复10.14.2无限重启的问题</li> 
+    <li>使用原生变频</li> 
+    <li>移除 CPUFriend.kext</li>
+    <li>移除 CPUFriendDataProvider.kext</li>
+  </ul>
+  </li>
 
   <li>2019-04-16：
   <ul>
