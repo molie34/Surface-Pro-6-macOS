@@ -20,7 +20,6 @@
   <li>显卡：UHD Graphics 620 128MB</li>
   <li>内存：8GB</li>
   <li>声卡：ALC298</li>
-  <li>无线网卡：Marvell Marvell AVASTAR Wireless-AC Network Controller</li>
   <li>显示屏：LGD0555 12.3 英寸</li>
   <li>显示屏比例：3:2</li>
   <li>分辨率： 2736 x 1824</li>
@@ -167,14 +166,6 @@
    <ul><li>v1.0</li></ul></li>
    </li>
 </ul>
-<h2>macOS 版本：</h2>
-
-<ul><li>macOS 10.14 - macOS 10.14.4，我目前使用macOS 10.14.4正式版</li></ul>
-<h2>CLOVER版本：</h2>
-<img src="https://github.com/molie34/Surface-Pro-6-macOS/blob/master/images/0.jpg" />
-<ul><li>CLOVER 4915</li>
-   
-</ul>
 
 <h2>目前完成：</h2>
 <ul>
@@ -204,15 +195,9 @@
 <h2>EFI文件：</h2>
 <h5>config文件、kexts、SSDT文件都在EFI/CLOVER/OEM/Surface Pro 6/UEFI/内。</H5>
 
-<H5>config文件有三个：</h5>
-<ul>
-  <li>config.Plist</li>
-  <li>config-Install.Plist</li>
-  <li>config-out-Display.Plist</li>
-</ul>
-
 <H2>安装过程:</H2>
 使用config-Install.Plist 文件进行全程安装，安装完成后先用这个配置文件进系统使用kexts Uiltiy 进行重建缓存，然后重启使用默认配置文件即可驱动内屏！</br>
+
 <h2>系统截图</h2>
 <img src="https://github.com/molie34/Surface-Pro-6-macOS/blob/master/images/1.jpg" />
 <img src="https://github.com/molie34/Surface-Pro-6-macOS/blob/master/images/2.jpg" />
