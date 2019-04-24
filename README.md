@@ -47,6 +47,7 @@
 <h2>更新信息：</h2>
 <p>请在macOS用Clover Configurator 打开黑苹果配置所在的EFI分区，然后删除 EFI/目录下BOOT、CLOVER 这个两个目录，再把下载好的EFI文件内BOOT、CLOVER 目录拖到系统 EFI/目录下完成更新。</p>
 
+<p>外接显示器模糊的请前往：https://github.com/molie34/one-key-hidpi 按照教程即可一键开启HIDPI。</p>
 <ul>
   <li>2019-04-22：
   <ul>
