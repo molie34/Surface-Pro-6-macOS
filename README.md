@@ -134,6 +134,7 @@
     <li>去除 VoodooPS2Controller.kext</li>
     <li>增加 VoodooI2C.kext</li>
     <li>增加 VoodooI2CHID.kext</li>
+    <li>VoodooI2C.kext、VoodooI2CHID.kext文件两个文件，放入 /System/Library/Extensions/ 目录下然后重建缓存就能使用触控板</li>
   </ul>
   </li>
   <li>2019-03-26:
