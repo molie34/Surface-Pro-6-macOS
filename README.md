@@ -45,7 +45,7 @@
 
 <p>关于10.14.4安装完后用config-Instll进入系统无限重启的，请在CLOVER界面光标移到macOS图标上按空格进入引导设置界面，选择“Block injected kexts”进入禁止加载驱动界面，选择10.14驱动目录，然后勾选“SMCBatteryManager.kext” 即可禁用电池驱动，按ESC回到主界面选择config-Intall进系统进行重建缓存。</li>
 
-<h3>更新信息：</p>
+<h3>更新信息：</h3>
 <p>请在macOS用Clover Configurator 打开黑苹果配置所在的EFI分区，然后删除 EFI/目录下BOOT、CLOVER 这个两个目录，再把下载好的EFI文件内BOOT、CLOVER 目录拖到系统 EFI/目录下完成更新。</p>
 
 <ul>
