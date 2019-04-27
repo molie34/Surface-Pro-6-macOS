@@ -35,17 +35,18 @@
 <p>如果你跟我一样使用的是to go系统并且会在Surface Pro6上使用，USB3.0集线器最好买RTS5411芯片带供电的，可以杜绝突然重启。</p>
 
 <h4>触摸板启用方法：</h4>
-<p>把EFI/CLOVER/OEM/Surface Pro 6/UEFI/kexts/内的VoodooI2C.kext、VoodooI2CHID.kext文件两个文件，放入 /System/Library/Extensions/ 目录下然后重建缓存就能完美使用触控板。</p>
+<p>把EFI/CLOVER/OEM/Surface Pro 6/UEFI/kexts/内的VoodooI2C.kext、VoodooI2CHID.kext两个文件，放入 /System/Library/Extensions/ 目录下然后重建缓存就能完美使用触控板。</p>
+<p> /System/Library/Extensions/ 在你的系统中文路径为：macOS/系统/资源库/Extensions/</p>
 
 <h4>外接显示器模糊解决方法：</h4>
-<p>请前往：https://github.com/molie34/one-key-hidpi 按照教程即可一键开启HIDPI，完美解决外接显示模糊的问题。</p>
+<p>请前往：<a href="https://www.jianshu.com/p/9c9dd3488597" target="_blank">Surface Pro6黑苹果外接显示器开启原生HiDPi显示效果</a> 按照教程即可一键开启HIDPI，完美解决外接显示模糊的问题。</p>
 <h3>Surface Pro6 专用黑苹果镜像</h3>
-<P>Surface Pro6 安装镜像：<A HREF="https://www.jianshu.com/p/560659017a7f" target="_blank">Surface Pro6 黑苹果镜像 macOS Mojave 10.14.4 正式版 with Clover 4919</A></p>
+<P>Surface Pro6 安装镜像：<A HREF="https://www.jianshu.com/p/560659017a7f" target="_blank">Surface Pro6 黑苹果镜像 macOS Mojave 10.14.4 正式版 with Clover 4922</A></p>
 <P>Surface Pro6 安装镜像：<A HREF="https://www.jianshu.com/p/65b9207276fd" target="_blank">Surface Pro6 黑苹果镜像 macOS Mojave 10.14.2 正式版 with Clover 4877</A></p>
 
 <p>关于10.14.4安装完后用config-Instll进入系统无限重启的，请在CLOVER界面光标移到macOS图标上按空格进入引导设置界面，选择“Block injected kexts”进入禁止加载驱动界面，选择10.14驱动目录，然后勾选“SMCBatteryManager.kext” 即可禁用电池驱动，按ESC回到主界面选择config-Intall进系统进行重建缓存。</li>
 
-<h3>更新信息：</p>
+<h3>更新信息：</h3>
 <p>请在macOS用Clover Configurator 打开黑苹果配置所在的EFI分区，然后删除 EFI/目录下BOOT、CLOVER 这个两个目录，再把下载好的EFI文件内BOOT、CLOVER 目录拖到系统 EFI/目录下完成更新。</p>
 
 <ul>
@@ -134,6 +135,7 @@
     <li>去除 VoodooPS2Controller.kext</li>
     <li>增加 VoodooI2C.kext</li>
     <li>增加 VoodooI2CHID.kext</li>
+    <li>VoodooI2C.kext、VoodooI2CHID.kext两个文件，放入 /System/Library/Extensions/ 目录下然后重建缓存就能使用触控板</li>
   </ul>
   </li>
   <li>2019-03-26:
