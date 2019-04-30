@@ -21,6 +21,15 @@
   <li>分辨率： 2736 x 1824</li>
   <li>硬盘：	SK HYNIX Skhynix BC501 NVMe 128GB</li>
 </ul>
+<h4>关于卡在田字牌解决办法：</h4>
+<p>关于重启卡在田字logo界面的两种终极解决方法：
+
+1.在win下用DG进入ESP分区，把三个.开头的目录全部删除，然后关机等20-60秒再开机就可以进入clover引导。如果还不能进入clover界面，继续强制关机之后等1分钟再开机就可以进入。
+
+2.如果你的EFI是安装在移动设备上，强制关机后扒掉移动存储设备再插入开机即可识别。
+
+另外在安装好黑苹果后，所有的EFI文件更新都要在macOS下进行操作就基本不会遇到这种情况，不管你的EFI安装在那个设备上。</p>
+
 <h4>关于WiFi的解决办法：</h4>
 <p>使用COMFAST USB无线网卡，型号：COMFAST CF-915AC</p>
 <p>使用这个驱动很稳定：链接:https://pan.baidu.com/s/1aaUNqg6BJxlPxeq4WoTgSw  密码:y9b0</p>
