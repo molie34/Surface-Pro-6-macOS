@@ -1,5 +1,5 @@
 
-<h2>Surface Pro 6 黑苹果  CLOVER 配置文件,全球首发</h2></br>
+<h2>Surface Pro 6 黑苹果  CLOVER 配置文件,全球首发</h2>
 <p>MacBook Pro之后，Surface Pro6 是我非常喜欢的一款机器，主机770g+键盘310g+笔20g = 1100g！非常轻便。基于对Surface Pro6的喜欢我做了4个教程来帮助更多Surface Pro6用户无忧折腾。</p><blockquote>
 <p>Surface Pro6超详细教程一共有4个系列：</p>
 <p><a href="https://www.jianshu.com/p/a5217b200053" target="_blank">Surface Pro 6超详细教程之安装windows10和黑苹果macOS 10.14双系统；</a></p>
@@ -37,6 +37,10 @@
 <h4>关于蓝牙的解决办法：</h4>
 <p>使用绿联的USB蓝牙（CSR8510 A10芯片），macOS系统直接免驱动，插上即可识别，可以同时多个连接键盘、鼠标、耳机，AirPods2(完美)。</p>
 
+
+<h4>关于无线网卡蓝牙二合一USB设备：</h4>
+<p>在论坛看到有Pro6用户提到过，天猫叫悦智人心5G无线网卡，特地去了解了一下，这款无线网卡蓝牙二合一usb设备是目前唯一一个官网有提供macOS的驱动的设备，我没有实际体验过，如果你想尝试可以去试试。官网：https://www.ezcast.com/product/ezcast,驱动地址：https://www.ezcast.com/app/ezcast/ezc-5200</p>
+
 <h4>关于使用USB蓝牙/无线鼠标键盘卡顿解决办法：</h4>
 <p>使用一个带供电的USB3.0 集线器和一个USB2.0集线器日常使用表现良好，USB3.0 HUB(0.6米)上插1TB SSD U盘；USB2.0 HUB(0.2米)插：USB无线网卡、USB蓝牙接收器、无线鼠标/机械键盘。</p>
 <img src="https://github.com/molie34/Surface-Pro-6-macOS/blob/master/images/USBly.jpg" />
@@ -58,7 +62,17 @@
 <h3>更新信息：</h3>
 <p>请在macOS用Clover Configurator 打开黑苹果配置所在的EFI分区，然后删除 EFI/目录下BOOT、CLOVER 这个两个目录，再把下载好的EFI文件内BOOT、CLOVER 目录拖到系统 EFI/目录下完成更新。</p>
 
+<p>2019/05/10：由于前段时间手里的CHIPFANCIER NANO 1TB SSD报废导致这几年存储的所有照片、设计素材等等数据都没有了。这段时间也没有心思去折腾，这两天才刚刚配好新装备做好可用的系统，特地来更新一小波。由于原CLOVER主题太大（28MB）会影响启动速度，特地设计了一个新的4K主题，整个文件大小4MB左右，默认背景可以自由更换。</p>
 <ul>
+  <li>2019-05-10：
+  <ul>
+    <li>v2.1</li>
+    <li>更新 CLOVER 4928</li> 
+    <li>更新 VirualSMC 1.0.3</li> 
+    <li>加入新的默认主题 XBlue</li> 
+  </ul>
+  </li>
+
   <li>2019-04-24：
   <ul>
     <li>v2.0</li>
