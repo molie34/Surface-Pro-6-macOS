@@ -39,7 +39,7 @@
 
 
 <h4>关于无线网卡蓝牙二合一USB设备：</h4>
-<p>在论坛看到有Pro6用户提到过，天猫叫悦智人心5G无线网卡，特地去了解了一下，这款无线网卡蓝牙二合一usb设备是目前唯一一个官网有提供macOS的驱动的设备，我没有实际体验过，如果你想尝试可以去试试。官网：https://www.ezcast.com/product/ezcast,驱动地址：https://www.ezcast.com/app/ezcast/ezc-5200</p>
+<p>在论坛看到有Pro6用户提到过，天猫叫悦智人心5G无线网卡，特地去了解了一下，这款无线网卡蓝牙二合一usb设备是目前唯一一个官网有提供macOS的驱动的设备，我没有实际体验过，如果你想尝试可以去试试。官网：www.ezcast.com/product/ezcast, 驱动地址：www.ezcast.com/app/ezcast/ezc-5200</p>
 
 <h4>关于使用USB蓝牙/无线鼠标键盘卡顿解决办法：</h4>
 <p>使用一个带供电的USB3.0 集线器和一个USB2.0集线器日常使用表现良好，USB3.0 HUB(0.6米)上插1TB SSD U盘；USB2.0 HUB(0.2米)插：USB无线网卡、USB蓝牙接收器、无线鼠标/机械键盘。</p>
