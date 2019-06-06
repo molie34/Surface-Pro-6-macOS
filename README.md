@@ -31,7 +31,7 @@
 另外在安装好黑苹果后，所有的EFI文件更新都要在macOS下进行操作就基本不会遇到这种情况，不管你的EFI安装在那个设备上。</p>
 
 <h4>关于WiFi的解决办法：</h4>
-<p>使用COMFAST USB无线网卡，型号：COMFAST CF-915AC</p>
+<p>使用COMFAST USB无线网卡，型号：COMFAST CF-915AC、 COMFAST CF-811AC、COMFAST CF-WU810N</p>
 <p>使用这个驱动很稳定：链接:https://pan.baidu.com/s/1aaUNqg6BJxlPxeq4WoTgSw  密码:y9b0</p>
 
 <h4>关于蓝牙的解决办法：</h4>
@@ -247,6 +247,6 @@
 
 <h3>感谢</h3>
 <p>感谢以下人员提供的经验、测试、反馈帮助：</p>
-<p>xjzkp、13956737563、CabbSir、9805xinwen</p>
+<p>xjzkp、13956737563、CabbSir、9805xinwen、radonjaw、chase69、Fnckerpoi </p>
 <p>感谢各位开发黑苹果驱动的大神。</p>
 <p>最后感谢翔哥。</p>
