@@ -2,10 +2,9 @@
 <h2>Surface Pro 6 黑苹果  CLOVER 配置文件,全球首发</h2>
 <p>MacBook Pro之后，Surface Pro6 是我非常喜欢的一款机器，主机770g+键盘310g+笔20g = 1100g！非常轻便。基于对Surface Pro6的喜欢我做了4个教程来帮助更多Surface Pro6用户无忧折腾。</p><blockquote>
 <p>Surface Pro6超详细教程一共有4个系列：</p>
-<p><a href="https://www.jianshu.com/p/a5217b200053" target="_blank">Surface Pro 6超详细教程之安装windows10和黑苹果macOS 10.14双系统；</a></p>
-<p><a href="https://www.jianshu.com/p/179477882133" target="_blank">Surface Pro 6超详细教程之安装黑苹果macOS 10.14单系统；</a></p>
-<p><a href="https://www.jianshu.com/p/6eb827ab5e9a" target="_blank">Surface Pro 6超详细教程之恢复Surface Pro6 windows10系统；</a></p>
-<p><a href="https://www.jianshu.com/p/d1b41d913f91" target="_blank">Surface Pro 6超详细教程之下载Surface Pro6 系统恢复镜像并制作系统恢复U盘。</a></p>
+<p><a href="#" target="_blank">Surface Pro 6超详细教程之安装windows10和黑苹果macOS 10.14双系统；</a></p>
+
+
 <p><b>以上系列教程非授权禁止转载。</b></p>
 </blockquote>
 
@@ -54,8 +53,8 @@
 <h4>外接显示器模糊解决方法：</h4>
 <p>请前往：<a href="https://www.jianshu.com/p/9c9dd3488597" target="_blank">Surface Pro6黑苹果外接显示器开启原生HiDPi显示效果</a> 按照教程即可一键开启HIDPI，完美解决外接显示模糊的问题。</p>
 <h3>Surface Pro6 专用黑苹果镜像</h3>
-<P>Surface Pro6 安装镜像：<A HREF="https://www.jianshu.com/p/560659017a7f" target="_blank">Surface Pro6 黑苹果镜像 macOS Mojave 10.14.4 正式版 with Clover 4919</A></p>
-<P>Surface Pro6 安装镜像：<A HREF="https://www.jianshu.com/p/65b9207276fd" target="_blank">Surface Pro6 黑苹果镜像 macOS Mojave 10.14.2 正式版 with Clover 4877</A></p>
+<P>Surface Pro6 安装镜像：<A HREF="#" target="_blank">Surface Pro6 黑苹果镜像 macOS Mojave 10.14.6 正式版 with Clover 4968</A></p>
+
 
 <p>关于10.14.4安装完后用config-Instll进入系统无限重启的，请在CLOVER界面光标移到macOS图标上按空格进入引导设置界面，选择“Block injected kexts”进入禁止加载驱动界面，选择10.14驱动目录，然后勾选“SMCBatteryManager.kext” 即可禁用电池驱动，按ESC回到主界面选择config-Intall进系统进行重建缓存。</li>
 
@@ -64,6 +63,17 @@
 
 <p>2019/05/10：由于前段时间手里的CHIPFANCIER NANO 1TB SSD报废导致这几年存储的所有照片、设计素材等等数据都没有了。这段时间也没有心思去折腾，这两天才刚刚配好新装备做好可用的系统，特地来更新一小波。由于原CLOVER主题太大（28MB）会影响启动速度，特地设计了一个新的4K主题，整个文件大小4MB左右，默认背景可以自由更换。</p>
 <ul>
+  <li>2019-09-08：
+  <ul>
+    <li>v2.3</li>
+    <li>更新 CLOVER 4968</li> 
+    <li>更新macOS 10.14 - 10.14.6 全系列支持</li> 
+    <li>更新macOS 10.14 - 10.14.6 全系列SD卡支持</li> 
+    <li>更新AppleALC</li> 
+    <li>更新Lilu</li> 
+    <li>更新WhateverGreen</li> 
+  </ul>
+  </li>
   <li>2019-05-26：
   <ul>
     <li>v2.2</li>
