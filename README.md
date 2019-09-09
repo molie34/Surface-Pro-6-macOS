@@ -67,6 +67,7 @@
   <ul>
     <li>v2.3</li>
     <li>更新 CLOVER 4968</li> 
+    <li>更新macOS 10.15 支持</li> 
     <li>更新macOS 10.14 - 10.14.6 全系列支持</li> 
     <li>更新macOS 10.14 - 10.14.6 全系列SD卡支持</li> 
     <li>更新AppleALC</li> 
