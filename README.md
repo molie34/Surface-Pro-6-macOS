@@ -2,7 +2,7 @@
 <h2>Surface Pro 6 黑苹果  CLOVER 配置文件,全球首发</h2>
 <p>MacBook Pro之后，Surface Pro6 是我非常喜欢的一款机器，主机770g+键盘310g+笔20g = 1100g！非常轻便。基于对Surface Pro6的喜欢我做了4个教程来帮助更多Surface Pro6用户无忧折腾。</p><blockquote>
 <p>Surface Pro6超详细教程一共有4个系列：</p>
-<p><a href="#" target="_blank">Surface Pro 6超详细教程之安装windows10和黑苹果macOS 10.14双系统；</a></p>
+<p><a href="http://www.macoshome.com/hackintosh/hcourse/1334.html" target="_blank">Surface Pro 6超详细教程之安装windows10和黑苹果macOS 10.14双系统；</a></p>
 
 
 <p><b>以上系列教程非授权禁止转载。</b></p>
@@ -62,6 +62,7 @@
 
 <p>2019/05/10：由于前段时间手里的CHIPFANCIER NANO 1TB SSD报废导致这几年存储的所有照片、设计素材等等数据都没有了。这段时间也没有心思去折腾，这两天才刚刚配好新装备做好可用的系统，特地来更新一小波。由于原CLOVER主题太大（28MB）会影响启动速度，特地设计了一个新的4K主题，整个文件大小4MB左右，默认背景可以自由更换。</p>
 <ul>
+  等有时间了再发10.15配置
   <li>2019-09-08：
   <ul>
     <li>v2.3</li>
