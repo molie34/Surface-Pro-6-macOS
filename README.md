@@ -52,26 +52,34 @@
 
 <h4>外接显示器模糊解决方法：</h4>
 <p>请前往：<a href="https://www.jianshu.com/p/9c9dd3488597" target="_blank">Surface Pro6黑苹果外接显示器开启原生HiDPi显示效果</a> 按照教程即可一键开启HIDPI，完美解决外接显示模糊的问题。</p>
-<h3>Surface Pro6 专用黑苹果镜像</h3>
-<P>Surface Pro6 安装镜像：<A HREF="#" target="_blank">Surface Pro6 黑苹果镜像 macOS Mojave 10.14.6 正式版 with Clover 4968</A></p>
+
 
 <p>关于10.14.4安装完后用config-Instll进入系统无限重启的，请在CLOVER界面光标移到macOS图标上按空格进入引导设置界面，选择“Block injected kexts”进入禁止加载驱动界面，选择10.14驱动目录，然后勾选“SMCBatteryManager.kext” 即可禁用电池驱动，按ESC回到主界面选择config-Intall进系统进行重建缓存。</li>
 
 <h3>更新信息：</h3>
 <p>请在macOS用Clover Configurator 打开黑苹果配置所在的EFI分区，然后删除 EFI/目录下BOOT、CLOVER 这个两个目录，再把下载好的EFI文件内BOOT、CLOVER 目录拖到系统 EFI/目录下完成更新。</p>
 
-<p>2019/05/10：由于前段时间手里的CHIPFANCIER NANO 1TB SSD报废导致这几年存储的所有照片、设计素材等等数据都没有了。这段时间也没有心思去折腾，这两天才刚刚配好新装备做好可用的系统，特地来更新一小波。由于原CLOVER主题太大（28MB）会影响启动速度，特地设计了一个新的4K主题，整个文件大小4MB左右，默认背景可以自由更换。</p>
 <ul>
-  等有时间了再发10.15配置
-  <li>2019-09-08：
+   由于记不起github密码，也在忙的一直没有登陆，最近终于找回了github密码。
+   另外目前已经没有Pro6机子，暂时无法做10.15测试发布。
+   基于EFI 2.3 做了一个稳定的专属安装镜像，里面封装了EFI文件，和部分专属工具，比较方便小白用户。
+<h3>Surface Pro6 10.14.6 黑苹果镜像</h3>
+<P>安装镜像、制作工具、Diskgenius分享：
+ 链接:https://pan.baidu.com/s/1oONztiDpg4B0AojXbPPuxg  密码:yja4 
+
+</p>
+
+
+  <li>2020-01-01：
   <ul>
     <li>v2.3</li>
     <li>更新 CLOVER 4968</li> 
-    <li>更新macOS 10.14 - 10.14.6 全系列支持</li> 
-    <li>更新macOS 10.14 - 10.14.6 全系列SD卡支持</li> 
+    <li>更新macOS 10.14.6 支持</li> 
     <li>更新AppleALC</li> 
     <li>更新Lilu</li> 
     <li>更新WhateverGreen</li> 
+    <li>解决大部分机子卡启动问题</li> 
+
   </ul>
   </li>
   <li>2019-05-26：
